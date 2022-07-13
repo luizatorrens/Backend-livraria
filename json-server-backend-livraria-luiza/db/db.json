@@ -1,0 +1,61 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "description": "Categoria 1"
+    },
+    {
+      "id": 2,
+      "description": "Categoria 2"
+    }
+  ],
+  "editoras": [],
+  "autores": [
+    {
+      "nome": "m",
+      "id": 1
+    },
+    {
+      "nome": "",
+      "id": 2
+    },
+    {
+      "nome": "",
+      "id": 3
+    },
+    {
+      "nome": "",
+      "id": 4
+    },
+    {
+      "nome": "",
+      "id": 5
+    },
+    {
+      "nome": "",
+      "id": 6
+    },
+    {
+      "nome": "",
+      "id": 7
+    },
+    {
+      "nome": "",
+      "id": 8
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "title": "Livro 1",
+      "categoryId": 1,
+      "publisherId": 1
+    },
+    {
+      "id": 1,
+      "title": "Livro 2",
+      "categoryId": 2,
+      "publisherId": 1
+    }
+  ]
+}
