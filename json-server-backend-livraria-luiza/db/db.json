@@ -19,20 +19,19 @@
     {
       "nome": "JOAO VERDE",
       "id": 1
+    },
+    {
+      "nome": "a",
+      "id": 2
     }
   ],
   "livros": [
     {
-      "id": 1,
-      "title": "Livro 1",
-      "categoryId": 1,
-      "publisherId": 1
-    },
-    {
-      "id": 1,
-      "title": "Livro 2",
-      "categoryId": 2,
-      "publisherId": 1
+      "nome": "qwerqw",
+      "autorId": 1,
+      "categoriaId": 1,
+      "editoraId": 1,
+      "id": 1
     }
   ]
 }
